@@ -1,0 +1,16 @@
+2015-06-25 13:04:56.477 CrappyBird[84405:1418694] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/drampazzo/Library/Developer/CoreSimulator/Devices/58C511E9-E096-44C1-91D0-425AE1B5D097/data/Containers/Data/Application/B2B82067-2BBD-4B2F-8F7B-B2C10760ECD2/Library/Cookies/Cookies.binarycookies
+2015-06-25 13:04:56.634 CrappyBird[84405:1418694] Apache Cordova native platform version 3.7.0 is starting.
+2015-06-25 13:04:56.635 CrappyBird[84405:1418694] Multi-tasking -> Device: YES, App: YES
+2015-06-25 13:04:56.637 CrappyBird[84405:1418694] Unlimited access to network resources
+2015-06-25 13:04:56.640 CrappyBird[84405:1418694] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-25 13:04:57.395 CrappyBird[84405:1418694] Resetting plugins due to page load.
+2015-06-25 13:04:57.849 CrappyBird[84405:1418694] Finished load of: file:///Users/drampazzo/Library/Developer/CoreSimulator/Devices/58C511E9-E096-44C1-91D0-425AE1B5D097/data/Containers/Bundle/Application/80B73F48-FD55-49A5-822C-877017CE6FA9/CrappyBird.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096

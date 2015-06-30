@@ -1,0 +1,146 @@
+2015-06-24 15:38:02.780 MobileDayBase[79303:1297320] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/drampazzo/Library/Developer/CoreSimulator/Devices/58C511E9-E096-44C1-91D0-425AE1B5D097/data/Containers/Data/Application/4E54318C-F3B0-4A3E-BE3B-5FF81C6873A6/Library/Cookies/Cookies.binarycookies
+2015-06-24 15:38:03.244 MobileDayBase[79303:1297320] Apache Cordova native platform version 3.7.0 is starting.
+2015-06-24 15:38:03.245 MobileDayBase[79303:1297320] Multi-tasking -> Device: YES, App: YES
+2015-06-24 15:38:03.368 MobileDayBase[79303:1297320] Unlimited access to network resources
+2015-06-24 15:38:03.408 MobileDayBase[79303:1297320] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 15:38:08.238 MobileDayBase[79303:1297320] Resetting plugins due to page load.
+2015-06-24 15:38:15.576 MobileDayBase[79303:1297320] Finished load of: file:///Users/drampazzo/Library/Developer/CoreSimulator/Devices/58C511E9-E096-44C1-91D0-425AE1B5D097/data/Containers/Bundle/Application/D18EADE1-3B67-4298-9297-B99D563AE431/MobileDayBase.app/www/index.html
+2015-06-24 15:41:19.897 MobileDayBase[79521:1299094] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/drampazzo/Library/Developer/CoreSimulator/Devices/58C511E9-E096-44C1-91D0-425AE1B5D097/data/Containers/Data/Application/EE400C8B-E633-4411-9675-32CCE8693807/Library/Cookies/Cookies.binarycookies
+2015-06-24 15:41:20.105 MobileDayBase[79521:1299094] Apache Cordova native platform version 3.7.0 is starting.
+2015-06-24 15:41:20.105 MobileDayBase[79521:1299094] Multi-tasking -> Device: YES, App: YES
+2015-06-24 15:41:20.125 MobileDayBase[79521:1299094] Unlimited access to network resources
+2015-06-24 15:41:20.147 MobileDayBase[79521:1299094] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-24 15:41:20.951 MobileDayBase[79521:1299094] Resetting plugins due to page load.
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-06-24 15:41:25.093 MobileDayBase[79521:1299094] Finished load of: file:///Users/drampazzo/Library/Developer/CoreSimulator/Devices/58C511E9-E096-44C1-91D0-425AE1B5D097/data/Containers/Bundle/Application/629CCE81-DD7B-4437-98CE-D5098750A9B7/MobileDayBase.app/www/index.html
+2015-06-25 10:40:08.464 MobileDayBase[81854:1366732] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/drampazzo/Library/Developer/CoreSimulator/Devices/58C511E9-E096-44C1-91D0-425AE1B5D097/data/Containers/Data/Application/E72AB6F7-4FB2-4EB4-A924-EF703CFEADF5/Library/Cookies/Cookies.binarycookies
+2015-06-25 10:40:08.985 MobileDayBase[81854:1366732] Apache Cordova native platform version 3.7.0 is starting.
+2015-06-25 10:40:08.986 MobileDayBase[81854:1366732] Multi-tasking -> Device: YES, App: YES
+2015-06-25 10:40:09.024 MobileDayBase[81854:1366732] Unlimited access to network resources
+2015-06-25 10:40:09.107 MobileDayBase[81854:1366732] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-25 10:40:12.538 MobileDayBase[81854:1366732] Resetting plugins due to page load.
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-06-25 10:40:17.325 MobileDayBase[81854:1366732] Finished load of: file:///Users/drampazzo/Library/Developer/CoreSimulator/Devices/58C511E9-E096-44C1-91D0-425AE1B5D097/data/Containers/Bundle/Application/BE7EDF93-C162-469E-9AEA-EA16E7F6DB15/MobileDayBase.app/www/index.html
+2015-06-25 10:45:59.978 MobileDayBase[81854:1366732] Resetting plugins due to page load.
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-06-25 10:46:00.417 MobileDayBase[81854:1366732] Finished load of: file:///Users/drampazzo/Library/Developer/CoreSimulator/Devices/58C511E9-E096-44C1-91D0-425AE1B5D097/data/Containers/Bundle/Application/BE7EDF93-C162-469E-9AEA-EA16E7F6DB15/MobileDayBase.app/www/index.html
+2015-06-25 11:00:35.985 MobileDayBase[82256:1377181] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/drampazzo/Library/Developer/CoreSimulator/Devices/58C511E9-E096-44C1-91D0-425AE1B5D097/data/Containers/Data/Application/15F75D4E-704C-4B61-A6BC-F55EA6B2E745/Library/Cookies/Cookies.binarycookies
+2015-06-25 11:00:36.477 MobileDayBase[82256:1377181] Apache Cordova native platform version 3.7.0 is starting.
+2015-06-25 11:00:36.478 MobileDayBase[82256:1377181] Multi-tasking -> Device: YES, App: YES
+2015-06-25 11:00:36.532 MobileDayBase[82256:1377181] Unlimited access to network resources
+2015-06-25 11:00:36.557 MobileDayBase[82256:1377181] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-25 11:00:38.521 MobileDayBase[82256:1377181] Resetting plugins due to page load.
+2015-06-25 11:00:39.371 MobileDayBase[82256:1377181] Finished load of: file:///Users/drampazzo/Library/Developer/CoreSimulator/Devices/58C511E9-E096-44C1-91D0-425AE1B5D097/data/Containers/Bundle/Application/4B1E85F3-AB84-4AF9-A88E-3B49A93C98D4/MobileDayBase.app/www/index.html
+2015-06-25 11:01:04.295 MobileDayBase[82256:1377181] Resetting plugins due to page load.
+2015-06-25 11:01:04.392 MobileDayBase[82256:1377181] Finished load of: file:///Users/drampazzo/Library/Developer/CoreSimulator/Devices/58C511E9-E096-44C1-91D0-425AE1B5D097/data/Containers/Bundle/Application/4B1E85F3-AB84-4AF9-A88E-3B49A93C98D4/MobileDayBase.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-06-25 11:05:35.848 MobileDayBase[82453:1379136] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/drampazzo/Library/Developer/CoreSimulator/Devices/58C511E9-E096-44C1-91D0-425AE1B5D097/data/Containers/Data/Application/516971F2-B36D-4BD2-924A-CB1F41DADFFF/Library/Cookies/Cookies.binarycookies
+2015-06-25 11:05:36.344 MobileDayBase[82453:1379136] Apache Cordova native platform version 3.7.0 is starting.
+2015-06-25 11:05:36.345 MobileDayBase[82453:1379136] Multi-tasking -> Device: YES, App: YES
+2015-06-25 11:05:36.381 MobileDayBase[82453:1379136] Unlimited access to network resources
+2015-06-25 11:05:36.404 MobileDayBase[82453:1379136] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-25 11:05:37.174 MobileDayBase[82453:1379136] Resetting plugins due to page load.
+2015-06-25 11:05:37.644 MobileDayBase[82453:1379136] Finished load of: file:///Users/drampazzo/Library/Developer/CoreSimulator/Devices/58C511E9-E096-44C1-91D0-425AE1B5D097/data/Containers/Bundle/Application/2807A20C-7304-4459-9303-09BB0CB8B6F9/MobileDayBase.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-06-25 11:16:04.623 MobileDayBase[82738:1383258] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/drampazzo/Library/Developer/CoreSimulator/Devices/58C511E9-E096-44C1-91D0-425AE1B5D097/data/Containers/Data/Application/10174C7E-C62D-4524-96A9-24FDCFD82805/Library/Cookies/Cookies.binarycookies
+2015-06-25 11:16:05.013 MobileDayBase[82738:1383258] Apache Cordova native platform version 3.7.0 is starting.
+2015-06-25 11:16:05.013 MobileDayBase[82738:1383258] Multi-tasking -> Device: YES, App: YES
+2015-06-25 11:16:05.043 MobileDayBase[82738:1383258] Unlimited access to network resources
+2015-06-25 11:16:05.065 MobileDayBase[82738:1383258] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-25 11:16:06.246 MobileDayBase[82738:1383258] Resetting plugins due to page load.
+2015-06-25 11:16:07.334 MobileDayBase[82738:1383258] Finished load of: file:///Users/drampazzo/Library/Developer/CoreSimulator/Devices/58C511E9-E096-44C1-91D0-425AE1B5D097/data/Containers/Bundle/Application/33A4EA92-3F1C-41A1-8608-2CF6EE440D77/MobileDayBase.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-06-25 12:41:23.485 MobileDayBase[83733:1409672] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/drampazzo/Library/Developer/CoreSimulator/Devices/58C511E9-E096-44C1-91D0-425AE1B5D097/data/Containers/Data/Application/8EB8AE09-E111-43DB-8F84-D618EECA050C/Library/Cookies/Cookies.binarycookies
+2015-06-25 12:41:23.644 MobileDayBase[83733:1409672] Apache Cordova native platform version 3.7.0 is starting.
+2015-06-25 12:41:23.645 MobileDayBase[83733:1409672] Multi-tasking -> Device: YES, App: YES
+2015-06-25 12:41:23.673 MobileDayBase[83733:1409672] Unlimited access to network resources
+2015-06-25 12:41:23.711 MobileDayBase[83733:1409672] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-25 12:41:24.314 MobileDayBase[83733:1409672] Resetting plugins due to page load.
+2015-06-25 12:41:24.647 MobileDayBase[83733:1409672] Finished load of: file:///Users/drampazzo/Library/Developer/CoreSimulator/Devices/58C511E9-E096-44C1-91D0-425AE1B5D097/data/Containers/Bundle/Application/2EE096EF-4C97-4D41-9536-99CF54791D38/MobileDayBase.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-06-25 12:52:48.346 MobileDayBase[83997:1413731] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/drampazzo/Library/Developer/CoreSimulator/Devices/58C511E9-E096-44C1-91D0-425AE1B5D097/data/Containers/Data/Application/1F4BD0BF-88D6-4875-9184-B2ECD0FC5E8D/Library/Cookies/Cookies.binarycookies
+2015-06-25 12:52:48.496 MobileDayBase[83997:1413731] Apache Cordova native platform version 3.7.0 is starting.
+2015-06-25 12:52:48.497 MobileDayBase[83997:1413731] Multi-tasking -> Device: YES, App: YES
+2015-06-25 12:52:48.512 MobileDayBase[83997:1413731] Unlimited access to network resources
+2015-06-25 12:52:48.530 MobileDayBase[83997:1413731] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-25 12:52:49.100 MobileDayBase[83997:1413731] Resetting plugins due to page load.
+2015-06-25 12:52:49.473 MobileDayBase[83997:1413731] Finished load of: file:///Users/drampazzo/Library/Developer/CoreSimulator/Devices/58C511E9-E096-44C1-91D0-425AE1B5D097/data/Containers/Bundle/Application/E72489B5-8229-4401-AE9D-76E0F69D9591/MobileDayBase.app/www/index.html
+>>>> frameSizeChanged = 4096
+>>>> frameSizeChanged = 4096
+2015-06-25 13:12:10.045 MobileDayBase[84714:1422510] DiskCookieStorage changing policy from 2 to 0, cookie file: file:///Users/drampazzo/Library/Developer/CoreSimulator/Devices/58C511E9-E096-44C1-91D0-425AE1B5D097/data/Containers/Data/Application/B8844D86-C2C9-4DCE-8C90-13F7D3E325D9/Library/Cookies/Cookies.binarycookies
+2015-06-25 13:12:10.384 MobileDayBase[84714:1422510] Apache Cordova native platform version 3.7.0 is starting.
+2015-06-25 13:12:10.385 MobileDayBase[84714:1422510] Multi-tasking -> Device: YES, App: YES
+2015-06-25 13:12:10.419 MobileDayBase[84714:1422510] Unlimited access to network resources
+2015-06-25 13:12:10.439 MobileDayBase[84714:1422510] 
+
+Started backup to iCloud! Please be careful.
+Your application might be rejected by Apple if you store too much data.
+For more information please read "iOS Data Storage Guidelines" at:
+https://developer.apple.com/icloud/documentation/data-storage/
+To disable web storage backup to iCloud, set the BackupWebStorage preference to "local" in the Cordova config.xml file
+
+2015-06-25 13:12:11.849 MobileDayBase[84714:1422510] Resetting plugins due to page load.
+2015-06-25 13:12:13.014 MobileDayBase[84714:1422510] Finished load of: file:///Users/drampazzo/Library/Developer/CoreSimulator/Devices/58C511E9-E096-44C1-91D0-425AE1B5D097/data/Containers/Bundle/Application/9223F3C7-ABA1-4D98-A143-F2B6608D652D/MobileDayBase.app/www/index.html
